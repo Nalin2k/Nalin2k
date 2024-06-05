@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **https://linktr.ee/nalin2k**
 
+- 📄 Know about my experiences [https://nalin2k.github.io/NalinCV/](https://nalin2k.github.io/NalinCV/)
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
