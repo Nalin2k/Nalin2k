@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nalin2k" alt="nalin2k" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Dot Net MVC & Core (C#)**
 
